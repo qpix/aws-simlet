@@ -1,7 +1,7 @@
 # Introduction
 The aws-simlet is a tool that enables you to generate a browser-based [aws-shell](https://github.com/awslabs/aws-shell) simulations that you can embed inside an `<iframe>` to web pages and exam software.
 
-A demo showing the simlets in action can be found [here](http://aws-simlet.s3-website-us-east-1.amazonaws.com/demo/). The ´config.sh´ that was used to generate the demo is found [here](http://aws-simlet.s3-website-us-east-1.amazonaws.com/config.sh).
+A demo showing the simlets in action can be found [here](http://aws-simlet.s3-website-us-east-1.amazonaws.com/demo/). The `config.sh` that was used to generate the demo is found [here](http://aws-simlet.s3-website-us-east-1.amazonaws.com/config.sh).
 
 ## How it works
 The simlets created with aws-simlet is fully HTML- and JavaScript-based and do not require internet connectivity during usage. All commands and command responses are built into the generated simlets.
